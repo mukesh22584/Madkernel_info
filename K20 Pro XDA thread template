@@ -1,9 +1,8 @@
-[B][U][SIZE="5"][COLOR="Red"]SuperMad Kernel for REDMI K20 Pro by mady51[/COLOR][/SIZE][/U][/B] 
+[center][IMG="SuperMad"]https://i.postimg.cc/QCJ8wXVy/Super-Mad-K20.png[/IMG][/center]
 
-
-[B][U]Introduction: [/U][/B]
+[center] [B][U]Introduction: [/U][/B]
 May be someone is here from OnePlus 3/t group, Then You know me for my Mad Kernel, Or you can Look  
-[URL="https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-mady-s-xtended-kernel-t3739378"][B][SIZE="3"]HERE[/SIZE][/B][/URL]
+[URL="https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-mady-s-xtended-kernel-t3739378"][B][SIZE="3"]HERE[/SIZE][/B][/URL] 
 
 [U][B]Standard Disclaimer:-[/B][/U]
 [CODE]/*
@@ -15,32 +14,16 @@ May be someone is here from OnePlus 3/t group, Then You know me for my Mad Kerne
  */[/CODE]
 
 [U][B]General Information:-[/B][/U]
-[CODE]This is only kernel and not a ROM. Be sure to flash a ROM first and then the kernel to boot into system. Or otherwise don't come yelling that it didn't booted...:p We are good in helping only if you're good at reading and explaining, if not then please don't flash this.[/CODE]
-
-[B]Feature List[/B]
-[list]
-[*]Initial release
-[*]Tweaked schedutil for better perf
-[*]Added advanced tcp protocols
-[*]Tweaked westwood tcp
-[*]Tweaked cfq io sched
-[*]Disabled lots of spam logs
-[*]Added boeffla wakelock blocker and blocked few wakelocs
-[*]Optimized lz4 and made it used in drm
-[*]Optimized memory usage
-[*]Lots many other things I dont remember, check git
-[/list]
+[CODE]This is only kernel and not a ROM. Be sure to flash a ROM first and then the kernel to boot into system. Or otherwise don't come yelling that it didn't booted...:p We are good in helping only if you're good at reading and explaining, if not then please don't flash this.[/CODE] [/center]
 
 [b][SIZE="3"] Special Notes[/SIZE] [/b]
+[list]
+[*][B]Kernel for custom roms. Not tested on Stock [/B] 
+[*][B]Thanks to Siberia Team, immensity kernel, meme team. [/B] 
+[*][B]You may loose magisk after flashing, just reflash magisk should be fine [/B]
+[*][B]Huge thanks to my tester @SkipperRyuJin [/B]  [/list]
 
-[B]* Kernel for custom roms. Not tested on Stock [/B] 
-[B]* Thanks to Siberia Team, immensity kernel, meme team. [/B] 
-[B]* You may loose magisk after flashing, just reflash magisk should be fine [/B] 
-[B][U]* Next build will be upstreamed to latest version[/U][/B] 
-
-[B]* Huge thanks to my tester @SkipperRyuJin [/B]
-
-[B][U]Some Information:-[/U][/B] 
+[B][U]FAQ:-[/U][/B] 
 
 1) Battery/SOT ? 
 [B]Ans: [/B] This is contradictory thing so let the kernel settle and then check yourself and report back.
@@ -56,6 +39,8 @@ May be someone is here from OnePlus 3/t group, Then You know me for my Mad Kerne
 [B]Links[/B] 
 [B][U]Kernel Source: [/U][/B] [URL="https://github.com/mady51/raphael-q"]Kernel Source For SuperMad Kernel[/URL]
 
-[B][U]Download: [/U][/B] [URL="https://www.pling.com/p/1412502#files-panel"]SuperMad Kernel[/URL]
+[B][U]Download: [/U][/B] [URL="https://sourceforge.net/projects/madkernel/files/Raphael%20or%20K20Pro%20Kernel/"]SuperMad Kernel[/URL]
 
 [B][U]Telegram Group: [/U][/B] [URL="https://t.me/joinchat/EY5PkVD2tyNQNntf2Xu8fg"] TeleGram Group Of SuperMad Kernel[/URL]
+
+[B][U]Changelog:[/U][/B] [URL="https://raw.githubusercontent.com/mukesh22584/Madkernel_XDA-Template/xq/k20%20pro%20changelog"]Click Here to see what's new[/URL]
