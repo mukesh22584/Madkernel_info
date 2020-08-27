@@ -1,3 +1,15 @@
+============ 27 August Changelog ==============
+
+* Upstream to 4.14.195
+* Fix TTL value to prevent tethering detection
+* Disable EAS_PREFER_IDLE
+* optimize battery temperature accounting
+* optimize battery temperature accounting
+* reduce logspam
+* account for battery temperature in calculations
+* add support for prime core
+* Introduce simple MSM thermal solution
+
 ============ 25 August Changelog ==============
 
 * Upstream to 4.14.194    
