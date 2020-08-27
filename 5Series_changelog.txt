@@ -1,3 +1,7 @@
+========== 27 August 2020 changelog ===========
+* Upstream to 4.4.234
+* Kernel compiled with Clang 12.
+
 ========== 25 August 2020 changelog ===========
 
 * Upstream to 4.4.233
