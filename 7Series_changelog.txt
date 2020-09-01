@@ -1,3 +1,13 @@
+========== 01 September 2020 changelog ===========
+
+* enable zen io default
+* fix elevator oops
+* zen-iosched: cast parameters to unsigned long
+* add zen io scheduler
+* msm: kgsl: use kmem_cache pool for draw objects
+* Revert "drm/msm/sde: Wait for ctl_start asynchronously on cmd mode pa…
+* fixup! input: touchscreen: Expose every possible gesture 
+
 ========== 27 August 2020 changelog ===========
 
 * Upstream to  4.14.195
